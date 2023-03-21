@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ChernyshenkoI/user-card-with-followers/static/css/main.93c86f14.css",
-    "main.js": "/ChernyshenkoI/user-card-with-followers/static/js/main.bbf1fefe.js",
-    "static/media/picture.png": "/ChernyshenkoI/user-card-with-followers/static/media/picture.032662a2a907475127d7.png",
-    "static/media/Boy.png": "/ChernyshenkoI/user-card-with-followers/static/media/Boy.f67994ec2400edb230b2.png",
-    "index.html": "/ChernyshenkoI/user-card-with-followers/index.html",
-    "main.93c86f14.css.map": "/ChernyshenkoI/user-card-with-followers/static/css/main.93c86f14.css.map",
-    "main.bbf1fefe.js.map": "/ChernyshenkoI/user-card-with-followers/static/js/main.bbf1fefe.js.map"
+    "main.css": "/user-card-with-followers/static/css/main.93c86f14.css",
+    "main.js": "/user-card-with-followers/static/js/main.666b6ef0.js",
+    "static/media/picture.png": "/user-card-with-followers/static/media/picture.032662a2a907475127d7.png",
+    "static/media/Boy.png": "/user-card-with-followers/static/media/Boy.f67994ec2400edb230b2.png",
+    "index.html": "/user-card-with-followers/index.html",
+    "main.93c86f14.css.map": "/user-card-with-followers/static/css/main.93c86f14.css.map",
+    "main.666b6ef0.js.map": "/user-card-with-followers/static/js/main.666b6ef0.js.map"
   },
   "entrypoints": [
     "static/css/main.93c86f14.css",
-    "static/js/main.bbf1fefe.js"
+    "static/js/main.666b6ef0.js"
   ]
 }
